@@ -1,13 +1,12 @@
-# ⚡ Sajan Rathod | BIM Designer – MEP & Electrical Design Engineer
+# ⚡ Sajan Gotiram Rathod | BIM Designer – MEP & Electrical Design Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sajanrathod96)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:sajanrathod421@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+91_9689174413-success?style=flat&logo=whatsapp)](#)
-
 ---
 
 ## 🏢 Professional Profile
-Results-driven Electrical Design Engineer with extensive experience delivering high-precision BIM solutions for complex infrastructure projects. Specialized in EHV substations, research institutes, and large-scale commercial developments. Skilled in transforming schematic designs into fully coordinated, clash-free, LOD 400 construction documentation while maintaining strict QA/QC compliance and adherence to NEC/IEC standards.
+Results-driven Electrical Design Engineer with over 3 years of professional experience delivering high-precision BIM solutions for complex infrastructure projects. Specialized in EHV substations, research institutes, and large-scale commercial developments. Skilled in transforming schematic designs into fully coordinated, clash-free, LOD 400 construction documentation while maintaining strict QA/QC compliance and adherence to NEC/IEC standards.
 
 ---
 
@@ -20,11 +19,12 @@ Results-driven Electrical Design Engineer with extensive experience delivering h
 ![BIM360](https://img.shields.io/badge/Autodesk-BIM_360_%2F_ACC-0696D7?style=flat&logo=autodesk)
 ![Python](https://img.shields.io/badge/Automation-Python_%2F_Revit_API-3776AB?style=flat&logo=python)
 
-### Engineering Expertise
+### Engineering Expertise & Continuous Learning
 * **High Voltage:** 220kV / 132kV Substations, HV Cable Routing, Grounding Systems  
 * **Power & Lighting:** LV/MV Distribution, Cable Sizing, Load Calculations, Panel Scheduling  
 * **Life Safety:** Addressable Fire Alarms, Sequence of Operations, Shunt Trips  
 * **BIM Delivery:** LOD 300–400 Modeling, Clash Detection, IFC Deliverables  
+* **Automation & VDC:** Actively learning Revit API, Python, and C# to automate BIM workflows, alongside upskilling in Virtual Design and Construction (VDC).
 
 ---
 
@@ -34,8 +34,7 @@ Results-driven Electrical Design Engineer with extensive experience delivering h
 * **Role:** Electrical Design Engineer & BIM Team Lead  
 * **Tech Stack:** Revit MEP, Navisworks Manage, ACC  
 * **Overview:** Led the electrical BIM team to deliver LOD 400 digital models for a cutting-edge biotechnology research facility.  
-* **Key Impact:**  
-  - Developed Package 7 (50% Construction Documents) focusing on intricate lighting plans for Level 1, Area A.  
+* **Key Impact:** - Developed Package 7 (50% Construction Documents) focusing on intricate lighting plans for Level 1, Area A.  
   - Collaborated with Elkus Manfredi Architects to ensure aesthetic alignment in heavily serviced ceilings.  
   - Implemented strict QA/QC protocols, achieving NEC compliance and minimizing on-site RFIs.  
 
@@ -51,8 +50,7 @@ Results-driven Electrical Design Engineer with extensive experience delivering h
 * **Role:** Electrical Design Engineer / BIM Modeler  
 * **Tech Stack:** Revit MEP, Navisworks Manage, ACC  
 * **Overview:** Designed electrical infrastructure for the L0B Basement (Sectors A & C) of a high-tech research institute.  
-* **Key Impact:**  
-  - Managed dense underground MEP routing around structural foundation elements.  
+* **Key Impact:** - Managed dense underground MEP routing around structural foundation elements.  
   - Developed clash-free LOD 400 electrical models.  
   - Reduced pre-construction RFI delays by resolving complex conduit conflicts alongside international architects (Mecanoo, HGA).  
 
@@ -73,8 +71,7 @@ Results-driven Electrical Design Engineer with extensive experience delivering h
 * **Role:** Electrical BIM Designer / Modeler  
 * **Tech Stack:** Revit MEP, Navisworks Manage, BIM 360  
 * **Overview:** Managed electrical modeling for a 13-story historic hospital conversion into a modern educational facility.  
-* **Key Impact:**  
-  - Divided workflow by building zones (A, B, C) across Basement to Level 12.  
+* **Key Impact:** - Divided workflow by building zones (A, B, C) across Basement to Level 12.  
   - Mapped high-load commercial power drops, including kitchens and food stations.  
   - Delivered clash-free Design Development models across 35+ floor plans.  
 
@@ -100,8 +97,7 @@ Results-driven Electrical Design Engineer with extensive experience delivering h
 * **Role:** Electrical & Fire Alarm Designer  
 * **Tech Stack:** Revit MEP, AutoCAD  
 * **Overview:** Complete electrical and life safety design for a multi-use commercial project.  
-* **Key Impact:**  
-  - Engineered core power network (600A MDP → 200A branch panels) with addressable fire alarm systems.  
+* **Key Impact:** - Engineered core power network (600A MDP → 200A branch panels) with addressable fire alarm systems.  
   - Developed wiring sequences for AHU duct detectors and emergency elevator shunt trips.  
   - Produced detailed installation documentation including device elevations and penetration firestopping.  
 
@@ -122,8 +118,7 @@ Results-driven Electrical Design Engineer with extensive experience delivering h
 * **Role:** Electrical BIM Modeler  
 * **Tech Stack:** Revit MEP, Navisworks Manage  
 * **Overview:** Electrical power and lighting modeling for a modern pharmaceutical campus.  
-* **Key Impact:**  
-  - Developed 3D lighting layouts for multi-level zones (L0B → L01) and detailed Level 06 power plans.  
+* **Key Impact:** - Developed 3D lighting layouts for multi-level zones (L0B → L01) and detailed Level 06 power plans.  
   - Modeled workstation circuitry in dense open-office and specialized facility zones.  
   - Produced heavily annotated 2D drawing extractions for critical bid documentation.  
 
@@ -160,6 +155,7 @@ Results-driven Electrical Design Engineer with extensive experience delivering h
 ## 🎓 Education & Certifications
 * **Bachelor of Engineering — Electrical & Electronics Engineering**, Marathwada Institute of Technology (2017 – 2020)  
 * **Certifications:** OSHA Safety Standards (Utility Industry), Prompt Engineering (Vanderbilt University)  
+* **Languages:** English, Hindi, Marathi, German (A1)
 
 ---
 
